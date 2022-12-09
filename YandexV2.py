@@ -7,3 +7,4 @@ for i in range(n):
         if j not in a:
             x.add(j)
     print(*x, sep=' ')
+    print(n)
